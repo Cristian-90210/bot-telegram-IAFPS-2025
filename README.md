@@ -21,12 +21,12 @@ Contact Information – details about the developer and support<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The structure is optimized for fast mobile usage, specific to Telegram applications.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The project aims to provide a fuel consumption estimate as realistic as possible, going beyond the theoretical values offered by manufacturers, by integrating calculation and regression models adapted to real driving conditions.<br><br><br><br><br><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;The project aims to provide a fuel consumption estimate as realistic as possible, going beyond the theoretical values offered by manufacturers, by integrating calculation and regression models adapted to real driving conditions.<br><br><br><br><br>
 
 <h1><p align="center">
-📊 Parameters Used in Fuel Consumption Estimation
+ Parameters Used in Fuel Consumption Estimation
 </p><br></h1>
-
+           
 &nbsp;&nbsp;&nbsp;&nbsp;To perform the estimation, the user selects the following parameters through a guided flow:
 
 1) Vehicle brand
@@ -49,4 +49,11 @@ Contact Information – details about the developer and support<br><br>
 
 10) Load percentage (vehicle load)
 
-![bottelegram-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/b83c9edb-6dc8-4958-9b1c-49d48c79058b)
+![bottelegram-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/b83c9edb-6dc8-4958-9b1c-49d48c79058b)<br><br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To acces this Telegram bot, and experience by yourself, you can acces via following link, or just scan the QR-code
+<p align="center"><img width="200" height="1250" alt="image" src="https://github.com/user-attachments/assets/77ae843c-ed85-43ad-b99c-7ed6604a7895" /p> 
+<p align="center"> https://t.me/mainnnnnnedaBot</p>
+
+
