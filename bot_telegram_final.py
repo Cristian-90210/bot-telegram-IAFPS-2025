@@ -281,7 +281,7 @@ def calculeaza_consum(an, masa, capacitate, viteza, sarcina, alimentare, tip_com
     consum_real = consum_optim * factor_viteza * factor_sarcina * factor_comb * factor_transmisie * factor_anotimp * factor_temperatura
 
     return "OK", consum_real, consum_optim
-
+	
 # --- 5. Funcția de Recomandare Personalizată ---
 def generate_recommendation(model, masa, consum_real, alimentare, tip_combustibil=None, transmisie=None, anotimp=None, temperatura=None):
     """Generează o recomandare personalizată bazată pe model, masă, consumul real, alimentare, tip combustibil, transmisie, anotimp și temperatură."""
