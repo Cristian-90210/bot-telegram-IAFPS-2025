@@ -53,7 +53,7 @@ Contact Information – details about the developer and support<br><br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To acces this Telegram bot, and experience by yourself, you can acces via following link, or just scan the QR-code
-<p align="center"><img width="200" height="1250" alt="image" src="https://github.com/user-attachments/assets/77ae843c-ed85-43ad-b99c-7ed6604a7895" /p> 
+<p align="center"><img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/77ae843c-ed85-43ad-b99c-7ed6604a7895" /p> 
 <p align="center"> https://t.me/mainnnnnnedaBot</p>
 
 
